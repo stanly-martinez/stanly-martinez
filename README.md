@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for **work**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1JtUO9mbSY-CzViss3l_4U70e2uIFP8az?usp=sharing](https://drive.google.com/drive/folders/1JtUO9mbSY-CzViss3l_4U70e2uIFP8az?usp=sharing)
+- 👨‍💻 My portafolio are available at [https://drive.google.com/drive/folders/1JtUO9mbSY-CzViss3l_4U70e2uIFP8az?usp=sharing](https://drive.google.com/drive/folders/1JtUO9mbSY-CzViss3l_4U70e2uIFP8az?usp=sharing)
 
 - 💬 Ask me about **web development with java or Comptia Security+ concepts**
 
